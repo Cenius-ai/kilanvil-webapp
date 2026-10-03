@@ -1,0 +1,16 @@
+# Byte-compiled / interpreter caches
+__pycache__/
+*.py[cod]
+
+# Local virtualenvs (not required - Kilanvil is standard library only)
+.venv/
+venv/
+
+# Environment files
+.env
+
+# Editor and OS noise
+.idea/
+.vscode/
+*.swp
+.DS_Store
