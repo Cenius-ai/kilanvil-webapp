@@ -37,7 +37,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-`install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. The Full-stack app codebase (21 files) is self-contained — no external services needed to evaluate it. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+`install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. The Full-stack app codebase (11 files) is self-contained — no external services needed to evaluate it. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
